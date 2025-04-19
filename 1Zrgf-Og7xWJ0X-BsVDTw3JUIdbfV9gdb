@@ -1,1 +1,21 @@
-Näsazlyk: HTTPConnectionPool(host='localhost', port=48059): Max retries exceeded with url: /session/fde3f5bf84dfc769b506b257d82406c6/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f7f5f886e50>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Näsazlyk: Message: 
+Stacktrace:
+#0 0x55cc46e72cea <unknown>
+#1 0x55cc469235f0 <unknown>
+#2 0x55cc46974a33 <unknown>
+#3 0x55cc46974c21 <unknown>
+#4 0x55cc469c3274 <unknown>
+#5 0x55cc4699a68d <unknown>
+#6 0x55cc469c0660 <unknown>
+#7 0x55cc4699a433 <unknown>
+#8 0x55cc46966ea3 <unknown>
+#9 0x55cc46967b01 <unknown>
+#10 0x55cc46e37b3b <unknown>
+#11 0x55cc46e3ba21 <unknown>
+#12 0x55cc46e1ec32 <unknown>
+#13 0x55cc46e3c594 <unknown>
+#14 0x55cc46e02eef <unknown>
+#15 0x55cc46e60d98 <unknown>
+#16 0x55cc46e60f76 <unknown>
+#17 0x55cc46e71b36 <unknown>
+#18 0x7ff1d0cf3609 start_thread
