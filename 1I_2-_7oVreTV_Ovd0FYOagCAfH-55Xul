@@ -1,0 +1,21 @@
+Näsazlyk: Message: 
+Stacktrace:
+#0 0x558ec19c9cea <unknown>
+#1 0x558ec147a5f0 <unknown>
+#2 0x558ec14cba33 <unknown>
+#3 0x558ec14cbc21 <unknown>
+#4 0x558ec151a274 <unknown>
+#5 0x558ec14f168d <unknown>
+#6 0x558ec1517660 <unknown>
+#7 0x558ec14f1433 <unknown>
+#8 0x558ec14bdea3 <unknown>
+#9 0x558ec14beb01 <unknown>
+#10 0x558ec198eb3b <unknown>
+#11 0x558ec1992a21 <unknown>
+#12 0x558ec1975c32 <unknown>
+#13 0x558ec1993594 <unknown>
+#14 0x558ec1959eef <unknown>
+#15 0x558ec19b7d98 <unknown>
+#16 0x558ec19b7f76 <unknown>
+#17 0x558ec19c8b36 <unknown>
+#18 0x7f42ece31609 start_thread
